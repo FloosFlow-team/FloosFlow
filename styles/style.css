@@ -1,0 +1,39 @@
+* {
+    font-family: 'Inter';
+}
+    
+
+
+.side-bar {
+    width: 250px;
+    height: 1184px;
+    display: flex;
+    flex-direction: column;
+    background-color: #E6EFF5;
+    padding: 10px;
+    margin: 0;
+}
+
+
+
+.icon {
+    width: 20px;
+    height: auto;
+    color: #b1b1b1;
+}
+
+.side-bar a {
+    color: #b1b1b1;
+    padding: 20px;
+    
+}
+
+.side-bar a img {
+    margin: 10px;
+}
+
+h1 {
+    margin: 20px;
+    margin-bottom: 50px;
+}
+
